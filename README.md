@@ -1,13 +1,31 @@
-# Insira aqui o nome do exercício
+# Leet
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Saída de dados e strigs (8) - Leet
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md
   
 ## Enunciado
   
-Insira aqui a descrição do exercício
+Faça um tradutor simples para a linguagem [Leet Speak](https://pt.wikipedia.org/wiki/Leet).
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Para isso, faça as seguintes substituições:
+
+Entrada | Saída
+-- | --
+ `A` ou `a` | `4`
+ `E` ou `e` | `3`
+ `I` ou `i` ou `L` ou `l`| `1`
+ `O` ou `o` | `0`
+ `T` ou `t` | `7`
+ `S` ou `s` | `5`
+
+Exemplo:
+
+```
+Texto a ser traduzido...: Hackers usavam leet antes de virar modinha.
+TRADUZIDO: H4ck3r5 u54v4m 1337 4n735 d3 v1r4r m0d1nh4.
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
